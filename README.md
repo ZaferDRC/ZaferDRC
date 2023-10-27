@@ -7,7 +7,7 @@
 <p  align  = "center"> 💻 I'm Computer Programming Student</p>
 <p  align  = "center"> 🌱 I'm currently learning:<br>
                           🔸Cyber Security<br>
-                          🔸Software Development</p>
+                            🔸Software Development</p>
 
 <div>
   <img align = "right" height = "12%" width = "12%" src="https://visitor-badge.laobi.icu/badge?page_id=ZaferDRC.ZaferDRC&"  />
