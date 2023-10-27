@@ -3,6 +3,7 @@
 </div>
 
 <h3 align="center">Hi 👋, I'm Zafer Yigithan Dereci</h3>
+
 <div align="right">
   <img height = "12%" width = "12%" src="https://visitor-badge.laobi.icu/badge?page_id=ZaferDRC.ZaferDRC&"  />
 </div>
