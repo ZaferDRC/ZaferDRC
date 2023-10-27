@@ -18,7 +18,11 @@
 
 ###
 
+<div align = "center">
+  
 <img height="150" src="https://media4.giphy.com/media/UqxVRm1IaaIGk/giphy.gif?cid=ecf05e47lfysfecyl04w1bqyeonxu2moh1jo6vhzhpwej32l&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+</div>
 
 <h1 align="center">hey there 👋</h1>
 
