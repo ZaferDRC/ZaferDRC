@@ -5,9 +5,8 @@
 <h3 align = "center">Hi 👋, I'm Zafer Yigithan Dereci</h3>
 <p  align  = "left"> 🛡️ I'm Interested Cyber Security</p>
 <p  align  = "center"> 💻 I'm Computer Programming Student</p>
-<p  align  = "center"> 🌱 I'm currently learning:
-                          
-                          🔸Cyber Security
+<p  align  = "center"> 🌱 I'm currently learning:<br>
+                          🔸Cyber Security<br>
                           🔸Software Development</p>
 
 <div>
