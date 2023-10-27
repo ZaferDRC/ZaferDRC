@@ -27,6 +27,7 @@
 ###
 
 <p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<img height="150" align = "right" src="https://media4.giphy.com/media/UqxVRm1IaaIGk/giphy.gif?cid=ecf05e47lfysfecyl04w1bqyeonxu2moh1jo6vhzhpwej32l&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -62,7 +63,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img height="150" align = "right" src="https://media4.giphy.com/media/UqxVRm1IaaIGk/giphy.gif?cid=ecf05e47lfysfecyl04w1bqyeonxu2moh1jo6vhzhpwej32l&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
