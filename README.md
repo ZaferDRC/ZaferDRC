@@ -62,10 +62,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-<div align="right">
-  <img height="150" src="https://media4.giphy.com/media/UqxVRm1IaaIGk/giphy.gif?cid=ecf05e47lfysfecyl04w1bqyeonxu2moh1jo6vhzhpwej32l&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img height="150" align = "right" src="https://media4.giphy.com/media/UqxVRm1IaaIGk/giphy.gif?cid=ecf05e47lfysfecyl04w1bqyeonxu2moh1jo6vhzhpwej32l&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
