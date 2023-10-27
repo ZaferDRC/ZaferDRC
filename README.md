@@ -71,9 +71,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ZaferDRC/count.svg?"  />
-</div>
-
-###
