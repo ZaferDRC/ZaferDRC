@@ -10,10 +10,7 @@
 </div>
 
 <hr>
-
 <br>
-<br>
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/zafer-yigithan-dereci-94417b238/" target="_blank">
