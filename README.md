@@ -3,6 +3,7 @@
 </div>
 
 <h3 align="center">Hi 👋, I'm Zafer Yigithan Dereci</h3>
+<hr>
 
 ###
 
