@@ -5,6 +5,9 @@
 <h3 align = "center">Hi 👋, I'm Zafer Yigithan Dereci</h3>
 <p  align  = "left"> 🛡️ I'm Interested Cyber Security</p>
 <p  align  = "right"> 💻 I'm Computer Programming Student</p>
+<p  align  = "right"> 💻 I'm 🌱 I'm currently learning:
+                      🔸Cyber Security
+                      🔸Software Development</p>
 
 <div>
   <img align = "right" height = "12%" width = "12%" src="https://visitor-badge.laobi.icu/badge?page_id=ZaferDRC.ZaferDRC&"  />
