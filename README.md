@@ -3,13 +3,16 @@
 </div>
 
 <h3 align="center">Hi 👋, I'm Zafer Yigithan Dereci</h3>
+<div align="right">
+  <img height = "12%" width = "12%" src="https://visitor-badge.laobi.icu/badge?page_id=ZaferDRC.ZaferDRC&"  />
+</div>
+
+<div align="left">
+  <img height = "12%" width = "12%" src="https://visitor-badge.laobi.icu/badge?page_id=ZaferDRC.ZaferDRC&"  />
+</div>
 <hr>
 
 ###
-
-<div align="center">
-  <img height = "12%" width = "12%" src="https://visitor-badge.laobi.icu/badge?page_id=ZaferDRC.ZaferDRC&"  />
-</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/zafer-yigithan-dereci-94417b238/" target="_blank">
