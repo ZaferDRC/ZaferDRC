@@ -4,13 +4,11 @@
 
 <h3 align="center">Hi 👋, I'm Zafer Yigithan Dereci</h3>
 
-<div align="right">
-  <img height = "12%" width = "12%" src="https://visitor-badge.laobi.icu/badge?page_id=ZaferDRC.ZaferDRC&"  />
+<div>
+  <img align = "right" height = "12%" width = "12%" src="https://visitor-badge.laobi.icu/badge?page_id=ZaferDRC.ZaferDRC&"  />
+  <img align = "left" height = "12%" width = "12%" src="https://visitor-badge.laobi.icu/badge?page_id=ZaferDRC.ZaferDRC&"  />
 </div>
 
-<div align="left">
-  <img height = "12%" width = "12%" src="https://visitor-badge.laobi.icu/badge?page_id=ZaferDRC.ZaferDRC&"  />
-</div>
 <hr>
 
 ###
