@@ -1,9 +1,4 @@
 <div align="center">
-  <img height="200" src="https://media1.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=ecf05e47jm4qroz0fsufdz8zou6oav8vwsmyxpsvkzfs2tmf&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
-<br>
-<br>
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZaferDRC&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZaferDRC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ZaferDRC&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -46,7 +41,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ZaferDRC/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ZaferDRC.ZaferDRC&left_color=antiquewhite&right_color=azure&left_text=lkmlkmnmlml"  />
 </div>
 
 ###
@@ -74,6 +69,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ZaferDRC/ZaferDRC/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=ecf05e47jm4qroz0fsufdz8zou6oav8vwsmyxpsvkzfs2tmf&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
 
 ###
