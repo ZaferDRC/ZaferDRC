@@ -7,6 +7,10 @@
 ###
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ZaferDRC.ZaferDRC&"  />
+</div>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/zafer-yigithan-dereci-94417b238/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -74,12 +78,6 @@
 
 <div align="center">
   <img height="200" src="https://media4.giphy.com/media/UqxVRm1IaaIGk/giphy.gif?cid=ecf05e47lfysfecyl04w1bqyeonxu2moh1jo6vhzhpwej32l&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ZaferDRC.ZaferDRC&"  />
 </div>
 
 ###
