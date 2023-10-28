@@ -78,10 +78,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-<div align = "center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/0x3AA5A.png" alt="TryHackMe">
-</div>
-
-<script src="https://tryhackme.com/badge/1115901"></script>
-
 ###
